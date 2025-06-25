@@ -33,7 +33,7 @@
 ## Quick start
 
 ```bash
-git clone https://github.com/cloudnativeengineer/cne_hn_over200.git
+git clone https://github.com/cattlepoint/cne_hn_over200.git
 pip install -r cne_hn_over200/requirements.txt
 export OPENAI_API_KEY="sk‑..."
 python -m cne_hn_over200 --min-score 300 --limit 15
